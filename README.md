@@ -8,7 +8,7 @@ git clone https://github.com/mjain1992/SuryaSoftware
 
 2) Open the folder in Java editor, like  Eclipse
 
-3) Add the java-json library as external JARs.
+3) Add the java-json.jar library as external JARs.
 Like, add it in Libraries in the project's(Responsetime) folder.
 
 4) Run the "main" method of the file ResponseTime.java.
